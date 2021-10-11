@@ -1,6 +1,6 @@
 ### Hi there guys
 
-My Name is Akshay , am a student currently learning Computer Science from India , seeking for a role int Information Technology you can find me here https://www.linkedin.com/in/akshay-s-7463411b4/
+Akshay here , am a student currently learning Computer Science from India , seeking for a role int Information Technology you can find me ![Linkedin](https://www.linkedin.com/in/akshay-s-7463411b4/)
 
 <!--
 **Trevor-akshay/Trevor-akshay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
