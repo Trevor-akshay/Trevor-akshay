@@ -7,6 +7,17 @@
  <a href = "mailto: trevorakshay@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="90" /></a>
 </p>
 
+<p align="center">
+  <em>
+    Hello, I am Akshay a <b>final year</b> undergraduate from Saranathan college of engineering
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Problem Solving</b> and always looking for challenges 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Trevor-akshay)
 
 
