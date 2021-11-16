@@ -22,7 +22,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing my knowledge in Spring boot and other web technologies
+✔ I’m currently Developing my knowledge in Spring boot and other web technologies<br>
 ✔ I’m looking to collaborate with any **Open - Source software projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always prefer challenges as it makes it interesting to deal with* 😎<br><br><br><br>
