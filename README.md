@@ -1,10 +1,14 @@
 ### Hi there guys
 
-Akshay here , Bachelor of Computer Science from India who is well versed in Java ,MySQL ,OOPS ,GIT and  seeking for a role in the world of Information Technology 
+Akshay here , Bachelor of Computer Science from India who is well versed in Java ,MySQL ,OOPS ,GIT and  seeking for a role in the world of Information Technology .
+
+
 Wanna connect ? [Linkedin](https://www.linkedin.com/in/akshay-s-7463411b4/)
 
 
 Comptettive Programming ? Here you go 
+
+
 [Leetcode](https://leetcode.com/Trevor-akshay/)
 [Hackerrank](https://www.hackerrank.com/trevorakshay)
 
