@@ -28,16 +28,16 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing my knowledge in Spring boot and other web technologies<br>
+✔ Callme: ***He/His*** or ***SmartWorker*** 😊 <br>
+✔ I’m currently Developing my knowledge in Spring boot<br>
 ✔ I’m looking to collaborate with any **Open - Source software projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always prefer challenges as it makes it interesting to deal with* 😎<br><br><br><br>
+✔ Fun fact : *I Always prefer challenges as it makes life more interesting to deal with* 😎<br><br><br><br>
  
  
  ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 📌 Programming languages
 
 <p align="left"> 
   <a href="https://www.java.com/en/">
@@ -57,7 +57,7 @@
 
 </p>
 
-### 👉 Frameworks
+### 📌 Frameworks
 <p align="left"> 
 &emsp;
   <a href="https://springdoc.org/" target="_blank"> 
@@ -69,7 +69,7 @@
   </a>   
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 📌 Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -79,7 +79,7 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
 
- ### 👉 Software & Tools
+ ### 📌 Software & Tools
  
 <p>
   &emsp;
