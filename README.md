@@ -28,11 +28,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***SmartWorker*** 😊 <br>
+✔ Callme: ***He/His*** or ***SmartWorker***  <br>
 ✔ I’m currently Developing my knowledge in Spring boot<br>
 ✔ I’m looking to collaborate with any **Open - Source software projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always prefer challenges as it makes life more interesting to deal with* 😎<br><br><br><br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
+✔ Fun fact : *I Always prefer challenges as it makes life more interesting to deal with* <br><br><br><br>
  
  
  ## 🛠️ My Skills
