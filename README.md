@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/akshay-s-7463411b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lin_akshay" height="35" width="130" /></a>  
  <a href="https://www.codechef.com/users/trevor_akshay" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef_akshay" height="35" width="130" /></a>
 <a href="https://www.instagram.com/trevor__akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_akshay" height="35" width="130" /></a>
- <a href = "mailto: trevorakshay@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="100" /></a>
+ <a href = "mailto: trevorakshay@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" width="130" /></a>
 </p>
 
 <hr>
