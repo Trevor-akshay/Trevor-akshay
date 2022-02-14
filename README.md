@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Akshay </h1>
 
 <p align="center">
- <a href="https://leetcode.com/Trevor-akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_akshay" height="40" width="100" /></a>
-<a href="https://www.hackerrank.com/trevorakshay" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_akshay" height="40" width="100" /></a>
-<a href="https://www.linkedin.com/in/akshay-s-7463411b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lin_akshay" height="40" width="100" /></a>  
-<a href="https://www.instagram.com/trevor__akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_akshay" height="40" width="100" /></a>
+ <a href="https://leetcode.com/Trevor-akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_akshay" height="35" width="130" /></a>
+<a href="https://www.hackerrank.com/trevorakshay" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_akshay" height="35" width="130" /></a>
+<a href="https://www.linkedin.com/in/akshay-s-7463411b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lin_akshay" height="35" width="130" /></a>  
+ <a href="https://www.codechef.com/users/trevor_akshay" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef_akshay" height="35" width="130" /></a>
+<a href="https://www.instagram.com/trevor__akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_akshay" height="35" width="130" /></a>
  <a href = "mailto: trevorakshay@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" width="100" /></a>
 </p>
 
@@ -56,8 +57,8 @@
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
  
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+<a href="https://go.dev/doc/">
+    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
   &emsp;
 
@@ -69,7 +70,7 @@
 <p align="left"> 
 &emsp;
   <a href="https://springdoc.org/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    </a>
   &emsp; 
   <a href="https://www.mongodb.com/" target="_blank"> 
