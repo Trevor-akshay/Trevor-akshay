@@ -13,8 +13,11 @@
 
 <p align="center">
   <em>
-    Hello, I am Akshay a <b>final year</b> undergraduate from Saranathan college of engineering
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is looking for a role in the <b>World of Information Technology </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hello, I am Akshay a <b>Software Development Engineer</b> @ZopSmart
+   <br>
+    <b>A Back-end programmer who plays around RESTful API's </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+   <br>
+   Working in <b>Node.js, Express.js, Koa.js and MongoDB</b> </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Who is <b>obsessed</b>
     with <b>Problem Solving</b> and always looking for challenges 
   </em> 
   <br>
@@ -30,7 +33,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***SmartWorker***  <br>
-✔ I’m currently Developing my knowledge in Spring boot<br>
+✔ I’m currently a Software Developer <br>
 ✔ I’m looking to collaborate with any **Open - Source software projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
 ✔ Fun fact : *I Always prefer challenges as it makes life more interesting to deal with* <br><br><br><br>
@@ -45,6 +48,18 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
  
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+ 
+ <a href="https://www.typescriptlang.org/docs/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+ 
+ <a href="https://go.dev/doc/">
+    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
+ 
  <a href="https://devdocs.io/html/">
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
@@ -55,11 +70,7 @@
  
  <a href="https://devdocs.io/c/">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
- 
-<a href="https://go.dev/doc/">
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
+  </a> 
   &emsp;
 
 
@@ -69,23 +80,35 @@
 ### 📌 Frameworks
 <p align="left"> 
 &emsp;
+ 
+ <a href="https://nodejs.org/en/docs/">
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+ 
+ <a href="https://expressjs.com/">
+    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  </a>
+ 
   <a href="https://springdoc.org/" target="_blank"> 
      <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    </a>
-  &emsp; 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>   
+  &emsp;   
 </p>
 
 ### 📌 Databases & Cloud Hosting
 <p align="left">
   &emsp;
+ <a href="https://www.mongodb.com/" target="_blank"> 
+   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a> 
+  &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.postgresql.org/docs/"><img alt="PostgresSQL" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://docs.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
  </p>
 
  ### 📌 Software & Tools
@@ -93,6 +116,12 @@
 <p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+ &emsp;
+    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></a>
+  &emsp;
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
