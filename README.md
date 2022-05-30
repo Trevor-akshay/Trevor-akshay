@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Akshay </h1>
 
+
 <p align="center">
  <a href="https://leetcode.com/Trevor-akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_akshay" height="35" width="130" /></a>
 <a href="https://www.hackerrank.com/trevorakshay" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_akshay" height="35" width="130" /></a>
@@ -147,11 +148,18 @@
 
 <br/>
 
+<p align="center">
+ 
+![](https://komarev.com/ghpvc/?username=Trevor-akshay&style=for-the-badge)
+ 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Trevor-akshay&style=dark)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Trevor-akshay)
+
+</p>
+
 
 
 
