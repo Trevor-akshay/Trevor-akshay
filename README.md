@@ -16,9 +16,9 @@
   <em>
     Hello, I am Akshay a <b>Software Development Engineer</b> @ZopSmart
    <br>
-    <b>A Back-end programmer who plays around RESTful API's </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    <b>A Back-end programmer who plays around RESTful API's </b>
    <br>
-   Working in <b>Node.js, Express.js, Koa.js and MongoDB</b> </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Who is <b>obsessed</b>
+   Working in <b>Node.js, Express.js, Koa.js and MongoDB</b> </b>&nbsp;<br>Who is <b>obsessed</b>
     with <b>Problem Solving</b> and always looking for challenges 
   </em> 
   <br>
@@ -30,15 +30,15 @@
 
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***SmartWorker***  <br>
+About me ->
+<p align="left">
+ <br>
+✔ Callme: He/His || SmartWorker  <br>
 ✔ I’m currently a Software Developer <br>
 ✔ I’m looking to collaborate with any **Open - Source software projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
 ✔ Fun fact : *I Always prefer challenges as it makes life more interesting to deal with* <br><br><br><br>
- 
+ </p>
  
  ## 🛠️ My Skills
 
