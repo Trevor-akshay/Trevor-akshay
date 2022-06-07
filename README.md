@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Akshay a <b>Software Development Engineer</b> @ZopSmart
+    A <b>Software Development Engineer</b> @ZopSmart
    <br>
     <b>A Back-end programmer who plays around RESTful API's </b>
    <br>
@@ -28,6 +28,9 @@
 
 <br><br>
 
+<h1 align="center"><img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/code.gif" width="10px"></h1>
+
+<br><br>
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 About me ->
@@ -35,9 +38,9 @@ About me ->
  <br>
 ✔ Callme: He/His || SmartWorker  <br>
 ✔ I’m currently a Software Developer <br>
-✔ I’m looking to collaborate with any **Open - Source software projects**<br>
+✔ I’m looking to collaborate with any Open - Source software projects<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds <br>
-✔ Fun fact : *I Always prefer challenges as it makes life more interesting to deal with* <br><br><br><br>
+✔ Fun fact : I Always prefer challenges as it makes life more interesting to deal with <br><br><br><br>
  </p>
  
  ## 🛠️ My Skills
