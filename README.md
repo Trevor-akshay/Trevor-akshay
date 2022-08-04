@@ -1,6 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Akshay </h1>
 
 
+<h1 align="center">
+  <a align="center" href="https://trevor-akshay.github.io/portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Trevor-akshay/portfolio/blob/main/src/assets/img/coder.png" width="30%">
+   <br>
+   PORTFOLIO ->
+ </a>
+</h1>
+
+
 <p align="center">
  <a href="https://leetcode.com/Trevor-akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_akshay" height="35" width="130" /></a>
 <a href="https://www.hackerrank.com/trevorakshay" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_akshay" height="35" width="130" /></a>
@@ -16,23 +25,17 @@
   <em>
     A <b>Software Development Engineer</b> @ZopSmart
    <br>
-    <b>A Back-end programmer who plays around RESTful API's </b>
+    <b>A Full-stack programmer who plays around RESTful API's </b>
    <br>
-   Working in <b>Node.js, Express.js, Koa.js and MongoDB</b> </b>&nbsp;<br>Who is <b>obsessed</b>
+   Working in <b>Node.js, Express.js, Koa.js, React.js, Next.js and MongoDB</b> </b>&nbsp;<br>Who is <b>obsessed</b>
     with <b>Problem Solving</b> and always looking for challenges 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"Failure builds what you are today!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <h3 align="center"><b><i >"Failure builds what you are today!”</i></b></h3>
 </p>
 
-
-<br><br>
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/code.gif" width="10px"></h1>
-
-<br><br>
 <hr>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <b>ABOUT ME </b> ->
 <p align="left">
  <br>
