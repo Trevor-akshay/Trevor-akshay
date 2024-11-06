@@ -13,7 +13,7 @@
 <p align="center">
  <a href="https://leetcode.com/Trevor-akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_akshay" height="35" width="130" /></a>
 <a href="https://www.hackerrank.com/trevorakshay" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_akshay" height="35" width="130" /></a>
-<a href="https://www.linkedin.com/in/akshay-s-7463411b4/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lin_akshay" height="35" width="130" /></a>  
+<a href="[https://www.linkedin.com/in/akshay-s-7463411b4/](https://www.linkedin.com/in/trevor-akshay/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lin_akshay" height="35" width="130" /></a>  
  <a href="https://www.codechef.com/users/trevor_akshay" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef_akshay" height="35" width="130" /></a>
 <a href="https://www.instagram.com/trevor__akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta_akshay" height="35" width="130" /></a>
  <a href = "mailto: trevorakshay@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" width="130" /></a>
