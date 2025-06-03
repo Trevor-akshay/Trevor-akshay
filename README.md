@@ -1,13 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Akshay Santhoshkumar</h1>
 
 
-<h1 align="center">
-  <a align="center" href="https://trevor-akshay.github.io/portfolio/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Trevor-akshay/portfolio/blob/main/src/assets/img/coder.png" width="30%">
-   <br>
-   Check Out My Portfolio
- </a>
-</h1>
 
 <p align="center">
  <a href="https://leetcode.com/Trevor-akshay/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leet_akshay" height="35" width="130" /></a>
