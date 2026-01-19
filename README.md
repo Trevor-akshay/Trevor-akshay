@@ -146,10 +146,16 @@ Fullstack Developer | AI & Automation Specialist | 3 Years Experience | Open to 
   </tr>
 </table>
 </div>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Trevor-akshay&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trevor-akshay&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Trevor-akshay&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Trevor-akshay&theme=radical&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevor-akshay&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Trevor-akshay&theme=radical&no-frame=true&no-bg=false&margin-w=4)
