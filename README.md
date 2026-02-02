@@ -1,10 +1,19 @@
+![Alt text of the image](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/Trevor-akshay/Trevor-akshay/main/hi.gif" width="30px">, I am Akshay Santhoshkumar</h1>
 <h3 align="center">
 Fullstack Developer | AI & Automation Specialist | 3 Years Experience | Open to New Opportunities
 </h5>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev+%F0%9F%9A%80;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Automation+%7C+Cloud+%7C+Fullstack+Dev;Building+with+passion+and+curiosity+%F0%9F%92%AF;Let%27s+create+something+amazing+together+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="mailto:trevorakshay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-trevorakshay%40gmail.com-blue?style=flat-square" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://akshaysanthoshkumar.vercel.app/" target="_blank">
     <img
@@ -43,9 +52,14 @@ Fullstack Developer | AI & Automation Specialist | 3 Years Experience | Open to 
 </p>
 <hr>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<b>ABOUT ME </b> ->
+
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<b>ABOUT ME </b>
+<br>
 <p align="left">
  <br>
+ <br>
+  
 ✔ Callme: He/His || SmartWorker  <br>
 ✔ I’m currently a Software Developer <br>
 ✔ I’m looking to collaborate with any Open - Source software projects<br>
